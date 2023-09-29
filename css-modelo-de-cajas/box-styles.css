@@ -1,0 +1,18 @@
+h1,p,div { background-color: #dde0e3;}
+h1{
+    padding: 50px;
+    margin: 50px;
+    border: 5px  solid black;
+}
+p{
+    padding: 50px;
+    margin: 50px;
+    border: 30px  solid rgb(147, 180, 25);  
+}
+div{
+    padding: 50px 5px 15px 3px;
+    margin: 50px;
+    border: 15px solid red;
+
+}
+em,strong,span { background-color: #b2d6ff;}
